@@ -10,3 +10,4 @@ This model analyzes images from a stationary device. Applications for this model
 
 SKU: COUNT-PS-SEC-AWS-001
 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-yjhxctbwqurpc
